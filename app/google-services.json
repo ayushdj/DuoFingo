@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "64191929133",
+    "project_id": "duofingo-58001",
+    "storage_bucket": "duofingo-58001.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64191929133:android:1d05f44eb50d827b3d91a4",
+        "android_client_info": {
+          "package_name": "com.example.duofingo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "64191929133-fc2ptu9l54mindo92tfc4nept70sev5d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8PRhlgPDNuc34iD9SC6JVQ8dsFhPTS18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "64191929133-fc2ptu9l54mindo92tfc4nept70sev5d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

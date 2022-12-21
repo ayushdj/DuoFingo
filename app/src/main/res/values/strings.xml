@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DuoFingo</string>
+    <string name="get_started">Get Started</string>
+    <string name="placeholder_message">Placeholder message</string>
+    <string name="_10_00_p_m">10:00 p.m.</string>
+    <string name="rose">Rose</string>
+    <string name="discussion_board">Duo Discussions</string>
+    <string name="extended_fab_label">Done!</string>
+</resources>
